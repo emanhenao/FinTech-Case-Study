@@ -46,6 +46,3 @@
 + https://techliance.com/blog/enterprise-software-development-trends/
 + https://medium.com/@xbsoftware/top-5-strategic-trends-in-enterprise-software-development-to-follow-in-2019-2897aef105a3
 + https://www.thinkadvisor.com/2020/08/28/lpl-adds-ycharts-to-vendor-program/
-
-! [YCharts] (https://images.squarespace-cdn.com/content/v1/55429b1be4b0e255524fd382/1444187336985-3KB4KFR2LCAWMZPPLXG9/ke17ZwdGBToddI8pDm48kFO7-eH190NLCou88YkNJgVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpy9Z0HVaokR3YUAr096Dka8mZkqol6EMakBvoUKu5VsAoUsCYuB_U3GUtNEH4KLP7o/ycharts-logo.png?format=300w)
-
