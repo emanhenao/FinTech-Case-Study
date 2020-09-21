@@ -1,3 +1,2 @@
-# FinTech-Case-Study-Homework1
-First FinTech Homework Assignment (Case Study) 
-
+# FinTech-Case-Study-Assignment-1
+FinTech Academic Assignment (Case Study) 
