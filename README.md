@@ -1,4 +1,4 @@
-# FinTech-Case-Study-Assignment-1
+# FinTech-Case-Study-1
 ### Emmanuel Henao 					
 ### Columbia University FinTech Program
 ## FinTech Company/Domain Case Study
